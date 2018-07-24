@@ -63,7 +63,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="buddy"
+                android:text="MAP"
                 android:textColor="#ffffff"
                 android:textSize="36sp"
                 android:textStyle="bold" />
